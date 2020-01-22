@@ -1,0 +1,19 @@
+{
+  "name": "trio-eyes",
+  "version": "0.0.0-alpha.0",
+  "main": "index.js",
+  "repository": "https://github.com/maxchehab/trio-eyes.git",
+  "author": "Max Chehab <maxchehab@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "next": "^9.2.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.1.8",
+    "@types/react": "^16.9.18",
+    "typescript": "^3.7.5"
+  }
+}
